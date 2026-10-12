@@ -10,7 +10,7 @@ Specialising in MCUs, RTOS, and embedded Linux.
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=techmo-san&repo=techmo-san%2Frt-air-quality&theme=chartreuse-dark)](https://github.com/techmo-san/rt-air-quality)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=techmo-san&repo=techmo-san%2Fposix-realtime-sequencer&description_lines_count=2&theme=chartreuse-dark)](https://github.com/techmo-san/posix-realtime-sequencer)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=techmo-san&repo=techmo-san%2Fposix-server-client&description_lines_count=2&theme=chartreuse-dark)](https://github.com/techmo-san/posix-server-client)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=techmo-san&repo=techmo-san%2Faesd-assignment&theme=chartreuse-dark)](https://github.com/techmo-san/aesd-assignment)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=techmo-san&repo=techmo-san%2Faesd-assignment&description_lines_count=2&theme=chartreuse-dark)](https://github.com/techmo-san/aesd-assignment)
 <!--
 **ani-4nirudh/ani-4nirudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
