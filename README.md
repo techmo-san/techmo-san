@@ -5,7 +5,7 @@ Specialising in MCUs, RTOS, and embedded Linux.
 <!--
 ## Skills and Experience
 -->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=techmo-san&rank_icon=percentile&custom_title=Stats&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=techmo-san&rank_icon=percentile&custom_title=Stats&theme=chartreuse-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=techmo-san&rank_icon=percentile&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=techmo-san&rank_icon=percentile&theme=chartreuse-dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=techmo-san&layout=compact&langs_count=5&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=techmo-san&layout=compact&langs_count=5&theme=chartreuse-dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=techmo-san&repo=techmo-san%2Frt-air-quality&theme=chartreuse-dark)](https://github.com/techmo-san/stm32-health-monitor)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=techmo-san&repo=techmo-san%2Fposix-realtime-sequencer&description_lines_count=2&theme=chartreuse-dark)](https://github.com/techmo-san/posix-realtime-sequencer)
